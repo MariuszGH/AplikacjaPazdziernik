@@ -1,0 +1,2 @@
+# AplikacjaPazdziernik
+super aplikacja
